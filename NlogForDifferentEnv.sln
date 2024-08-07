@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogForDifferentEnv", "NlogForDifferentEnv\NlogForDifferentEnv.csproj", "{A5D0D834-C5D7-4EC2-9210-5C0920DD11DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D0D834-C5D7-4EC2-9210-5C0920DD11DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D0D834-C5D7-4EC2-9210-5C0920DD11DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D0D834-C5D7-4EC2-9210-5C0920DD11DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D0D834-C5D7-4EC2-9210-5C0920DD11DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0156ECE7-4016-4FF8-8242-CEACC0E3F06A}
+	EndGlobalSection
+EndGlobal
